@@ -1,0 +1,31 @@
+0001 :	Atlanta -> LA 			:	
+0002 :	SF -> atlanta 			:
+0003 :	Salt lake city -> SD	:
+0004 :	Miami -> NY				:
+0005 :	LA -> Ho Chi Minh		:	International
+0006 :	Queens -> Shanghai		:	International
+0007 :	Miami -> Long Beach		
+0008 :	Philadelphia -> Salt Lake:
+0009 :	Phoenix -> Manila 		:	International
+0010 :	Charlotte -> SF			:
+0011 :	Dallas -> Phoenix		:
+0012 :	Chicago -> San Diego	:
+0013 :	San Diego -> Los Angeles:
+0014 :	Seattle -> Paradise		
+0015 :	Denver -> Dallas		:
+0016 :	Miami -> Chicago		:
+0017 :	Newark -> Orlando		:
+0018 :	Orlando -> Chicago		:
+0019 :	Tampa -> New York		:
+0020 :	Queens -> Chicago		:
+0021 :	Seattle -> Lose Angeles :
+0022 :	Miami -> SF				:
+0023 :	Houston -> Shanghai		:	International
+0024 :	Miami -> Chicago		:
+0025 :	Atlanta -> San Diego	:
+0026 :	Orlando -> Dallas		:
+0027 :	SF -> Paradise			:
+0028 :	Phoenix -> Shanghai		:	International
+0029 :	Shanghai -> Chicago		:	International
+0030 :	Tampa -> Manila			:	International
+0031 :	Houston -> Dulles		:
